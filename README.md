@@ -1,4 +1,4 @@
-This is the [AI link](https://github.com/Yonom/assistant-ui) to the starter project.
+This is the [link](https://github.com/Yonom/assistant-ui) to the AI starter project.
 
 ## Overview
 This is a ChatGPT-style AI assistant built using the Gemini API. Users can ask natural language questions, and the AI responds with intelligent, context-aware answers.  The goal of this project was to get familiar with how API requests are fetched and handled within a Next.js application hence building conversational AI apps and featuring a clean interface and easy-to-extend architecture. Whether you're experimenting with AI interactions or looking to integrate Gemini into your own applications, this project offers a solid foundation to get started quickly.
